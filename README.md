@@ -5,14 +5,6 @@
 # 📑 목차
 * [1. Introduction](#-1-Introduction)
   * [기획 의도 및 프로젝트 목표](#-기획-의도-및-프로젝트-목표)
-* [2. Main](#-2-Main)
-  * [a. 데이터 설명](#-a-데이터-설명)
-  * [b. 데이터 전처리 및 EDA](#-b-데이터-전처리-및-EDA)
-  * [c. 분석기법](#-c-분석기법)
-* [3. Conclusion](#-3-Conclusion)
-  * [a. 결과 시각화 및 해석](#-a-결과-시각화-및-해석)
-  * [b. 분석 결과 요약](#-b-분석-결과-요약)
-  * [c. 추가진행사항 및 한계점](#c-추가-진행사항-및-한계점)
 
 ----------
 ## :tomato: Introduction
@@ -23,6 +15,10 @@
 
 ----------
 ## Result
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/104750108/184447829-c772262d-9c48-4cc5-b7cf-3b49c5cee96e.png">
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/104750108/184447808-fcc6838c-aa2d-4005-8e4b-e0c2a9e1bbba.png">
+
 
 
 ## 목표 : 토마토 예측 가격과 실제 가격의 오차 분석
