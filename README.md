@@ -21,6 +21,15 @@
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/104750108/184448121-743c8346-8e65-4756-be9a-c4bcbd9f1302.png">
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/104750108/184448409-1a5a81fb-dc09-4df7-ace4-f948852730a3.png">
 
+----------
+
+## :tokyo_tower: Modeling
+
+### 1. Dataset
+- 기상청, 농산물 유통정보서비스, 오피넷, 국가통계포털에서 정보수집
+- 총 4개 데이터셋을 전처리 수행, 최종 1227개의 데이터 확보
+<img width="1101" alt="image" src="https://user-images.githubusercontent.com/104750108/184449049-a58556bb-f637-475a-be64-8e6a16237b8f.png">
+
 
 
 
