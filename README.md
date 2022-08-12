@@ -104,7 +104,7 @@ pip install scikit-learn
 
 |Member|See More!|
 |------|---|
-|이종승|https://github.com/paper-s
+|이종승|<a href = "https://github.com/paper-s"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 |안수정|
 
 
