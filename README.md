@@ -19,6 +19,8 @@
 ### 성능 비교 및 오차 결과
 - Multiple Linear > Ridge > Lasso
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/104750108/184448121-743c8346-8e65-4756-be9a-c4bcbd9f1302.png">
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/104750108/184448409-1a5a81fb-dc09-4df7-ace4-f948852730a3.png">
+
 
 
 
