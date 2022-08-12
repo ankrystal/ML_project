@@ -1,4 +1,4 @@
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/104750108/184321347-d7decdef-5b89-4fa3-9aa9-7ef57b782b9d.png">
+<img width="1050" alt="image" src="https://user-images.githubusercontent.com/104750108/184321347-d7decdef-5b89-4fa3-9aa9-7ef57b782b9d.png">
 
 
 ## 주제 : 회귀분석을 활용한 토마토 가격 예측
