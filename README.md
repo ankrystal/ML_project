@@ -14,14 +14,15 @@
   * [b. 분석 결과 요약](#-b-분석-결과-요약)
   * [c. 추가진행사항 및 한계점](#c-추가-진행사항-및-한계점)
 
-
-## :horse_racing: Introduction
+----------
+## :tomato: Introduction
 - 토마토는 가격 변동이 큰 작물로, 지역별 날씨 데이터 & 다양한 변수를 활용하여  예측한다면 가격 안정화를 시키는 의미있는 연구가 될 것으로 예상
 - 타국 토마토 수입량 Top 5를 선정해서 추가적인 변수를 고려하면 가격을 예측하는데 좀 더 정확한 결과를 얻을 것으로 예상하고 해당 프로젝트를 진행
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/104750108/184447585-ef4b82b1-db09-47a1-aec5-63a4c7273eb5.png">
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/104750108/184447632-1b9eb8b3-6814-41c0-a373-a9e3ece594e9.png">
 
-
-## 
+----------
+## Result
 
 
 ## 목표 : 토마토 예측 가격과 실제 가격의 오차 분석
