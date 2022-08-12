@@ -1,7 +1,14 @@
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/104750108/184321347-d7decdef-5b89-4fa3-9aa9-7ef57b782b9d.png">
 
 
-## 주제 : 회귀분석을 활용한 토마토 가격 예측
+
+# 📑 목차
+* [1. Introduction](#-1-Introduction)
+* [2. Main](#-2-Main)
+* [3. Conclusion](#-3-Conclusion)
+
+
+
 ## 목표 : 토마토 예측 가격과 실제 가격의 오차 분석
 ## 기획 의도 : 
 - 토마토는 가격 변동이 큰 작물로, 지역별 날씨 데이터 및 다양한 변수를 활용하여 예측한다면 가격 안정화를 시키는 의미있는 연구가 될 것으로 예상
