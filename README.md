@@ -1,3 +1,6 @@
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/104750108/184321347-d7decdef-5b89-4fa3-9aa9-7ef57b782b9d.png">
+
+
 ## 주제 : 회귀분석을 활용한 토마토 가격 예측
 ## 목표 : 토마토 예측 가격과 실제 가격의 오차 분석
 ## 기획 의도 : 
