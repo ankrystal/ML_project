@@ -104,4 +104,7 @@ pip install scikit-learn
 
 |Member|See More!|
 |------|---|
-|이종승|
+|이종승|https://github.com/paper-s
+|안수정|
+
+
