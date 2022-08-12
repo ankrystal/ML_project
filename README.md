@@ -31,7 +31,9 @@
 <img width="1101" alt="image" src="https://user-images.githubusercontent.com/104750108/184449049-a58556bb-f637-475a-be64-8e6a16237b8f.png">
 
 ### 2. Library
+```
 !pip install scikit-learn
+```
 
 
 
