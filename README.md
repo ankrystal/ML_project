@@ -104,7 +104,7 @@ pip install scikit-learn
 
 |Member|See More!|
 |------|---|
-|이종승|<a href = "https://github.com/paper-s"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+|이종승|<a href = "https://github.com/paper-s"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <a href = "https://enormous-sunstone-18f.notion.site/ba6ff2bd9a18448a82020125eb1bac12"><img alt="Notion" src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 |안수정|
 
 
